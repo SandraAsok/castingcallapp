@@ -1,4 +1,4 @@
-package in.sandra.castingcallapp
+package com.example.castingcallapp
 
 import io.flutter.embedding.android.FlutterActivity
 
