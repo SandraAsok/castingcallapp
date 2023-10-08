@@ -7,9 +7,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-// List<dynamic> availableShortlisted = [];
-// List<dynamic> filteredShortlisted = [];
-
 class NotifyScreen extends StatefulWidget {
   final Stream<QuerySnapshot> _notifyStream;
 
